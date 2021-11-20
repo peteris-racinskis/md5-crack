@@ -1,0 +1,1 @@
+g++ -o test string_iter.cpp -lssl -lcrypto
